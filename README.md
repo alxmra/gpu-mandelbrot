@@ -27,6 +27,7 @@ make
 
 * Note: Morphing shifts the Real part of the computation merely for the sake of trying it out in real time, as seen in the first GIF.
 
+Based on guidance provided on [PhysicsPython](https://physicspython.wordpress.com/)
 
 <p align="center">
   <img src="https://github.com/alxmra/gpu-mandelbrot/blob/main/images/two.gif" alt="Mandelbrot zoom demo" width="1000">
